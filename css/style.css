@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #757575;
+  color: #ffff;
   text-align: left;
   background-color: #fff;
 }
@@ -1972,7 +1972,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #757575;
+  color: #ffff;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -6441,7 +6441,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #757575 !important;
 }
 
 .bg-transparent {
